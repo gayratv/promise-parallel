@@ -1,0 +1,11 @@
+node_modules
+.vscode
+build
+.idea
+/test-results/
+/playwright-report/
+/playwright/.cache/
+.env
+proxylist.txt
+/mysql-ts/gents-config.json
+/data/
